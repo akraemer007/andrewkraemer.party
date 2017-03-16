@@ -1,24 +1,33 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: pretty
 # relative_permalinks: true #hid for jekyll 3 compatability
 
 # Setup
 title: Andrew Kraemer's Sunshine Emporium
 tagline: 'An imperfect translation of imperfect thoughts'
-description: 'A quiet place to think. Created by <a href="https://twitter.com/kidman007" target="_blank">@kidman007</a>.'
+description: 'Watch your head.'
 url: http://kidman007.github.io
 baseurl: ''
-gems: [jekyll-paginate] # added for jekyll 3 compatability
-paginate: 5
-paginate_path: "page:num" # added for jekyll 3 compatability
+twitter_username: kidman007
+github_username:  kidman007
 
 # About/contact
 author:
   name:  Andrew Kraemer
   url: https://twitter.com/kidman007
   email: kidman007@gmail.com
+
+gems:
+  - jekyll-paginate # added for jekyll 3 compatability
+
+# Build Settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/" # added for jekyll 3 compatability
+inter_post_navigation: true # not sure what this does
+
 
 # Custom vars
 version:             1.0.0
