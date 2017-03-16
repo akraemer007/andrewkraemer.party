@@ -2,9 +2,11 @@ I used [this](https://nikinath.github.io/build-blog-using-github-jekyll) website
 
 - get new url and update this
 - shorten tagline
+- shorten description
 - update licence
+- update readonly
 - Make my own favicon
-- adding photo
+- adding photo?
 - Socail media buttons
 - fonts
 - drafts
