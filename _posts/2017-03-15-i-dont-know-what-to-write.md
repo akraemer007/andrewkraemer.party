@@ -35,7 +35,7 @@ My new roommate is Kevin Tran. Kevin Tran is from a place called *Craigslist*. K
 It took some time to learn how to deal with Post Tony Supergoodtimes Depression (PTSD), but now I have Kevin Tran. Kevin Tran is fine.
 
 ### The part that focuses on a select audience
-So far, March has been phenomenal. March has been much better than February. All of February, I felt sick and lethargic, which is unfortunate because February was beautiful. The Germans have a work for this: [Frühjahrsmüdigkeit](https://en.wikipedia.org/wiki/Springtime_lethargy), which is a fancy German way of blaming my sickness on the increasing of the temperatures, rather than not allowing myself to rest and recover. Thank you, Germans for this word.
+So far, March has been phenomenal. March has been much better than February. All of February, I felt sick and lethargic, which is unfortunate because February was beautiful. The Germans have a word for this 'Springtime Lethargy' phenomena: [Frühjahrsmüdigkeit](https://en.wikipedia.org/wiki/Springtime_lethargy). According to wikipedia fifty to seventy-five percent of Germans experience Frühjahrsmüdigkeit. That's a lot of sad Germans.
 
 I was fortunate to visit my dear friends in both the Twin Cities and Seattle these last few weekends. Seeing my friends brought me an incredible amount of joy. However, it’s more like a joy that is personal and soaked in nostalgia — rather than one that is easily explained to internet at large. I just have this to say:
 > Thank you my good friends for being excellent
