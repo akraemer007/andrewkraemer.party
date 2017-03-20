@@ -50,7 +50,7 @@ I also really liked *10 Cloverfield Lane*. If you didn’t like *Cloverfield*, y
 I made [this](https://open.spotify.com/user/kidman007/playlist/2ZqNeGaS08ga03TmmrEVjn) playlist for you, my dear reader. It’s called *Distilled Friendship*.
 
 ### The part where I thank you
-It’s been a really good year and a half. Lots has happened, and I — for once in my life — had to stop myself from writing. Sometimes I’ve been creative and other times I’ve been lazy. Regardless, it’s always nice to share, and I always appreciate you reading. More to come soon.
+It’s been a really good year and a half. Lots has happened, and I — for once in my life — had to stop myself from writing. Sometimes I’ve been creative and other times I’ve been lazy. Regardless, it’s always nice to share, and I always appreciate you reading. More to come soon. Drop me a line at kidman007@gmail.com if you would like to be added to the email list.
 
 Your friend,
 
