@@ -10,11 +10,11 @@ categories: New Blog
 
 My name is Andrew Kraemer. I live in Madison. I am tall. I am simple. I talk a lot. I use periods where most people would put commas.
 
-I started a blog on Wordpress a long time ago, and I haven’t added anything to it for a year and a half. The blog was an opportunity for me to explore my enjoyment of language and work on my writing anxiety. For the most part, the blog worked. I think I’m a better writer for it. I struggle a lot less with writer’s block as a result. Looking back on the blog, I’m impressed with the consistency I was able to publish content — despite the limited free time I had when I wrote it. Moving to Madison was a significant turning point in my life, which I failed to capture and share on my blog. That’s okay. I did other things. Change, it turns out, is hard.
+I started a blog on Wordpress a long time ago, and I haven’t added anything to it for a year and a half. The blog was an opportunity for me to explore language and work on my writing anxiety. For the most part, the blog worked. I think I’m a better writer for it. I struggle a lot less with writer’s block as a result. Looking back on the blog, I’m impressed with the consistency I was able to publish content — despite the limited free time I had when I wrote it. Moving to Madison was a significant turning point in my life, which I failed to capture and share on my blog. That’s okay. I did other things. Change, it turns out, is distracting.
 
 I have recently decided to start the blog up again. A friend of mine asked me why I stopped writing. I opened my mouth, then I closed my mouth. I opened my mouth up again and said the words, “Honestly, I don’t really remember.”
 
-I’m not a doctor, but I don’t think , “I don’t remember” is a particularly good reason to do or not do anything. So here we are again, a new blog on a new website with new words. The new website is my attempt to get better at some of the backend coding that comes with working on the internet. The words are for me and you. We can share the words like a team.
+So here we are again, a new blog on a new website with new words. The new website is my attempt to get better at some of the backend coding that comes with working on the internet. The words are for me and you. We can share the words like a team.
 
 Let’s get back to fun things.
 
@@ -33,12 +33,13 @@ My new roommate is Kevin Tran. Kevin Tran is from a place called *Craigslist*. K
 - We share the cost of rent.
 - Kevin pays more for rent than I do.
 
-It took some time to learn how to deal with Post Tony Supergoodtimes Depression (PTSD), but now I have Kevin Tran. Kevin Tran is fine.
+It took some time to learn how to deal with Post Tony Supergoodtimes Depression (PTSD), but now I have Kevin Tran.
+  Kevin Tran is fine.
 
 ### The part that focuses on a select audience
 So far, March has been phenomenal. March has been much better than February. All of February, I felt sick and lethargic, which is unfortunate because February was beautiful. The Germans have a word for this 'Springtime Lethargy' phenomenon: [Frühjahrsmüdigkeit](https://en.wikipedia.org/wiki/Springtime_lethargy). According to wikipedia fifty to seventy-five percent of Germans experience Frühjahrsmüdigkeit. That's a lot of sad Germans.
 
-I was fortunate to visit my dear friends in both the Twin Cities and Seattle these last few weekends. Seeing my friends brought me an incredible amount of joy. However, it’s more like a joy that is personal and soaked in nostalgia — rather than one that is easily explained to internet at large. I just have this to say:
+I was fortunate to visit my dear friends in both the Twin Cities and Seattle these last few weekends. Seeing my friends brought me an incredible amount of joy. However, it’s more like a joy that is personal and soaked in nostalgia — rather than one that is easily explained to the internet at large. I just have this to say:
 > Thank you my good friends for being excellent
 
 ### The part where I suggest things
@@ -46,7 +47,7 @@ I made sure to optimize Frühjahrsmüdigkeit, by watching several good movies. *
 
 I also really liked *10 Cloverfield Lane*. If you didn’t like *Cloverfield*, you should probably watch this anyway. John Goodman kills it in this one. It’s scary in a wonderful way.
 
-I made [this](https://open.spotify.com/user/kidman007/playlist/2ZqNeGaS08ga03TmmrEVjn) playlist for you. It’s called *Distilled Friendship*.
+I made [this](https://open.spotify.com/user/kidman007/playlist/2ZqNeGaS08ga03TmmrEVjn) playlist for you, my dear reader. It’s called *Distilled Friendship*.
 
 ### The part where I thank you
 It’s been a really good year and a half. Lots has happened, and I — for once in my life — had to stop myself from writing. Sometimes I’ve been creative and other times I’ve been lazy. Regardless, it’s always nice to share, and I always appreciate you reading. More to come soon.
