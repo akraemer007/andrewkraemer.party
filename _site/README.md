@@ -2,11 +2,9 @@
 
 This is Github repo for Andrew's blog. The blog runs on Jekyll, which is so easy that even Andrew has been able to figure it out. If you'd like to contribute, feel free to send me a pull request.
 
-To build locally run `bundle exec jekyll build / serve`
+To build locally run `bundle exec jekyll build / serve`.
 
-
-I used [this](https://nikinath.github.io/build-blog-using-github-jekyll) website for my inspiration
-
+I used [this](https://nikinath.github.io/build-blog-using-github-jekyll) website for my inspiration. The website is powered by [Jekyll](https://jekyllrb.com/) using the [Lanyon](https://github.com/poole/lanyon) theme by Mark Otto. Lanyon is not directly compatible with Jekyll 3.0, but I've made it work. It's exciting because it's forced me to dig into the HTML & CSS more than I've ever had to in the past. So far this blog has been a great learning experience.
 
 ## To-Do
 
@@ -19,7 +17,7 @@ I used [this](https://nikinath.github.io/build-blog-using-github-jekyll) website
 - Make better favicon
 - adding photo?
 - Social media buttons?
-- ~~set up leto fonts~~
+- ~~set up Leto fonts~~
 - Talk to Conor about typography
 - ~~drafts~~
 - google analytics
