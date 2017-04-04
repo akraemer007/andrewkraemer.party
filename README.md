@@ -21,6 +21,7 @@ I used [this](https://nikinath.github.io/build-blog-using-github-jekyll) website
 - Talk to Conor about typography
 - ~~drafts~~
 - google analytics
+- Add links in about page
 
 ## Author
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "I Would Like to Write a Blog Post but It’s Been Almost Two Years and I Don’t Really Know Where to Start"
 date:   2017-03-15 20:14:12 -0500
-categories: New Blog
+categories: personal
 ---
 
 
