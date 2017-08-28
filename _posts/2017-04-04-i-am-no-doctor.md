@@ -10,7 +10,7 @@ categories: personal
 
 I am not a morning person. I’m not a night owl either. To be honest, I’m barely a middle of the day person.
 
-Despite my best efforts, mornings have always been a struggle for me; no matter what I do I wake up exhausted. I’ve tried quite a few things to deal with this problem. I’ve regulated when sleep schedule. I don’t use my phone before going to bed. I eat my fruits and vegetables. I work out. So far, all of the normal recommendations have worked.
+Despite my best efforts, mornings have always been a struggle for me; no matter what I do I wake up exhausted. I’ve tried quite a few things to deal with this problem. I’ve regulated my when sleep schedule. I don’t use my phone before going to bed. I eat my fruits and vegetables. I work out. So far, all of the normal recommendations have not worked.
 
 At one point, I got desperate. I looked up online how to become a morning person. According to a post on a sketchy bodybuilding forum it’s surprisingly easy to become a morning person. I followed these simple instructions:
 
