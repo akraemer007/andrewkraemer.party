@@ -11,7 +11,7 @@ My apartment is empty — except for the entryway which is filled with boxes. Th
 
 When I walk around my living room my footsteps echo throughout the room.
 
-I am done packing and my life is contained in one Nissan Altima’s worth of boxes and bags. Now that I have a second to breath, I am experiencing these feelings:
+I am done packing, and my life is contained within one Nissan Altima’s worth of boxes and bags. Now that I have a second to breath, I am experiencing these feelings:
 - Sadness
 - Gratefulness
 - Anxiety
