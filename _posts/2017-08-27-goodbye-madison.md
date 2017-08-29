@@ -23,7 +23,7 @@ I’m leaving Madison to try something new. I’m moving to Austin, Texas, and b
 
 I’ve lived in Madison for the past two years. Madison is a place. It’s a nice place, but a place is a place is a place. A place doesn’t have feelings. It can’t love you or take care of you.
 
-Madison too isn’t too different than other places. It’s a midwest town. It has a university and it’s a capitol. There are families and hippies — students and bureaucrats.
+Madison too isn’t too different than other places. It’s a midwest town. It has a university, and it’s a capitol. There are families and hippies — students and bureaucrats.
 
 I know that a place is a place is a place. I know that Madison is a place. But as I sit here on my bed on the floor in my otherwise empty room, I can’t help but feel that Madison is my place.
 
