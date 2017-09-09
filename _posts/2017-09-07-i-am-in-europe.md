@@ -9,7 +9,7 @@ This is a bougie way to start a blog post. I could have been much more subtle. W
 
 This is a blog post about me and what I’m doing. Right now, as the aforementioned title states, I am in Europe. I will be in Europe for a month. A month is a long time. I’m able to do this because I don’t have a job right now and because I am impulsive.
 
-A few months ago I made the decision to shake my life up a bit. I love Madison, but I always planned on being there for around two years. It was time for a change. I have a thousand-and-one reasons to move to Chicago, so I decided to move to Austin, Texas, instead. Comfortability, I have found, is overrated.
+A few months ago I made the decision to shake my life up a bit. I love Madison, but I always planned on being there for around two years. It was time for a change. I have a thousand-and-one reasons to move to Chicago, so I decided to move to Austin, Texas, instead. Comfort, I have found, is overrated.
 
 In Austin, I’ll be doing a three-month intensive Data Science bootcamp. My goal is to become a data scientist and work in Austin after I finish the program. A data scientist who is someone who pretends to be able to predict the future with buzz-wordy tools and methods such as, “Machine Learning,” “Artificial Intelligence,” “Deep Learning,” and “Computers.” *Scientist* is in the job title, so I’m thinking that I might be able to wear a lab coat as part of my next gig. Here’s hoping.
 
