@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Ireland was Awesome Brilliant"
+title:  "Ireland was Brilliant"
 date:   2017-09-16
 categories: personal
 ---
-
-# Ireland was ~~Awesome~~ Brilliant
 
 Ireland is a small rock in the Atlantic Ocean. It rains constantly. The sky is usually grey. Everything there is expensive. I had a wonderful time there.
 
