@@ -12,15 +12,15 @@ It was a Tuesday night at ten-thirty at night. Berlin, I realized, was going to 
 Berlin was the first city I visited alone. Even though I am generally comfortable saying *“ohhihellothere”* to anyone who will listen, I was nervous to go somewhere without any friends. Thankfully, two things made this a non-issue:
 1. Everyone who stays in a hostel is on an adventure. It is why they are in a hostel, rather than a place real bed that is actually comfortable. I met a person starting his own two year spirit quest. His name was Marten, and he was cool. I met people on holiday from fun places like Portugal, the UK, Australia, Isreal, France, and the US. “Where are you from,” becomes code for: I too sleep on an uncomfortable bed with seven roommates; I too am alone on a spirit quest; Perhaps we can be friends.
 2. I have secret technique for meeting locals when I am a stranger in a strange land.
-	I ask people who look fun and local, do you know any good bars in the area?
-	I have no intention of going to another bar.
-	They say, where are you from?
-	I say, Chicago.
-	They say, Oh that’s cool.
-	I say, Yeah it is cool, but I’m lying a little bit.
-	I ask to join their table.
-	They say, yes!
-	There is much rejoicing.
+  - I ask people who look fun and local, do you know any good bars in the area?
+  - I have no intention of going to another bar.
+  - They say, where are you from?
+  - I say, Chicago.
+  - They say, Oh that’s cool.
+  - I say, Yeah it is cool, but I’m lying a little bit.
+  - I ask to join their table.
+  - They say, yes!
+  - There is much rejoicing.
 
 Berlin is cool because it has the tendency to remind you that you are in Berlin. Its punk-rock, artsy, and edgy vibes manifest  everywhere. Buildings are more likely to have graffiti than not. Everyone wears black leather jackets. Everyone has cool sunglasses on — even when it’s night. There are secret bars with suave gnome-like bartenders. Delicious beer is everywhere, you can drink it everywhere, and it is cheap. People are young and international and kind.
 
