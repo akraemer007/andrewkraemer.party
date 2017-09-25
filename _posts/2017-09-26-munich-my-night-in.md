@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Munich: My Night 'In'"
-date:   2017-09-26
+date:   2017-09-25
 categories: personal
 ---
 
