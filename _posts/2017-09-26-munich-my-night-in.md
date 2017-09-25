@@ -32,4 +32,4 @@ The door was locked on the patio, but my elegant plan didn’t require warmth �
 
 At about the point in the movie where Johnny Depp is waking up from his second nap of the film — about twenty minutes, I was saved by my friend’s German roommates. They made me stew, and we drank beer, and we talked about how wonderful Germany was until midnight. All in all, it was a very special night. Even with all of rain and grey and back pain, Munich treated me quite nicely.
 
-Thank you kindly for reading.
+I'll write about all of the "quiet nights in" I had in Prague next. Thank you, as always for reading.
