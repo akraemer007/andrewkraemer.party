@@ -10,7 +10,7 @@ My name is Andrew Kraemer and this is my blog. If you've made it this far, you p
 
 Here's a little bit about myself:
 
-I live in Madison, Wisconsin, where I am a data analyst for a local healthcare start-up, where I get paid to ask questions and make beautiful graphs.
+I live in Austin, Texas, where I work with data for money.
 
 I have too many hobbies for one person, but I try my best to keep up with them. My favorite hobbies include hanging out with friends, playing and listening to music, performing comedy -- whether it be improv or stand-up, reading novels, and pretending that I am actively creative.
 
