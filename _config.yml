@@ -19,6 +19,10 @@ theme: minima
 markdown: kramdown
 permalink: pretty
 
+# Header pages (controls navigation menu)
+header_pages:
+  - about.md
+
 # Pagination
 paginate: 5
 paginate_path: "/page:num/"
