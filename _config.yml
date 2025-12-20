@@ -1,33 +1,38 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: pretty
-# relative_permalinks: true #hid for jekyll 3 compatability
-
-# Setup
+# Site settings
 title: Andrew Kraemer's Sunshine Emporium
 tagline: 'Watch your head.'
 description: 'An imperfect translation of imperfect thoughts'
-url: http://andrewkraemer.party
-baseurl: ''
-twitter_username: kidman007
-github_username:  kidman007
+url: https://andrewkraemer.party
+baseurl: ""
 
-# About/contact
+# Author information
 author:
-  name:  Andrew Kraemer
-  url: https://twitter.com/kidman007
+  name: Andrew Kraemer
   email: kidman007@gmail.com
 
-gems:
-  - jekyll-paginate # added for jekyll 3 compatability
+# Social media
+twitter_username: kidman007
+github_username: kidman007
 
-# Build Settings
+# Build settings
+theme: minima
 markdown: kramdown
+permalink: pretty
+
+# Pagination
 paginate: 5
-paginate_path: "/page:num/" # added for jekyll 3 compatability
-inter_post_navigation: true # not sure what this does
+paginate_path: "/page:num/"
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
 
-# Custom vars
-version:             1.0.0
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - UPGRADE_GUIDE.md
