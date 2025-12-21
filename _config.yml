@@ -11,8 +11,16 @@ author:
   email: kidman007@gmail.com
 
 # Social media
-bluesky_username: andrewkraemer.party
 github_username: akraemer007
+
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/akraemer007"
+      title: GitHub
+    - platform: bluesky
+      user_url: "https://bsky.app/profile/andrewkraemer.party"
+      title: Bluesky
 
 # Build settings
 theme: minima
