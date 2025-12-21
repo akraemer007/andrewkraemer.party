@@ -1,7 +1,7 @@
 # Site settings
-title: Andrew Kraemer's Sunshine Emporium
+title: Andrew Magazine
 tagline: 'Watch your head.'
-description: 'An imperfect translation of imperfect thoughts'
+description: 'i am trying my best'
 url: https://andrewkraemer.party
 baseurl: ""
 
@@ -11,8 +11,8 @@ author:
   email: kidman007@gmail.com
 
 # Social media
-twitter_username: kidman007
-github_username: kidman007
+bluesky_username: andrewkraemer.party
+github_username: akraemer007
 
 # Build settings
 theme: minima
@@ -39,4 +39,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE.md
-  - UPGRADE_GUIDE.md
