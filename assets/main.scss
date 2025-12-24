@@ -1,0 +1,315 @@
+---
+---
+
+@import "minima";
+
+/* ============================================
+   NEW YORKER MAGAZINE AESTHETIC
+   Classic, elegant, typography-focused design
+   ============================================ */
+
+/* Google Fonts - add to head */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+/* ===== TYPOGRAPHY ===== */
+
+/* Body text - Crimson Text (Caslon alternative) */
+body {
+  font-family: 'Crimson Text', serif !important;
+  font-size: 18px !important;
+  line-height: 1.5 !important;
+  color: #1a1a1a !important;
+  background-color: #ffffff !important;
+}
+
+/* Headings - EB Garamond */
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.post-title {
+  font-family: 'EB Garamond', serif !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+  color: #1a1a1a !important;
+  line-height: 1.2 !important;
+}
+
+/* Heading hierarchy */
+h1, .post-title {
+  font-size: 2.5rem !important;
+  margin-bottom: 0.5em !important;
+  font-weight: 700 !important;
+}
+
+h2 {
+  font-size: 2rem !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+h3 {
+  font-size: 1.5rem !important;
+  margin-top: 1.25em !important;
+  margin-bottom: 0.5em !important;
+}
+
+h4 {
+  font-size: 1.25rem !important;
+  margin-top: 1em !important;
+  margin-bottom: 0.5em !important;
+}
+
+h5, h6 {
+  font-size: 1.1rem !important;
+  margin-top: 1em !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* ===== LAYOUT ===== */
+
+/* Narrow content width for optimal readability */
+.page-content {
+  max-width: 680px !important;
+  margin: 0 auto !important;
+  padding: 60px 30px !important;
+}
+
+.wrapper {
+  max-width: 680px !important;
+  margin: 0 auto !important;
+  padding-right: 30px !important;
+  padding-left: 30px !important;
+}
+
+/* Header */
+.site-header {
+  border-top: none !important;
+  border-bottom: 1px solid #e8e8e8 !important;
+  min-height: auto !important;
+  padding: 30px 0 !important;
+}
+
+.site-title {
+  font-size: 1.75rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+  color: #1a1a1a !important;
+  line-height: 1.2 !important;
+}
+
+.site-title:hover {
+  text-decoration: none !important;
+  color: #1a1a1a !important;
+}
+
+.site-nav {
+  line-height: 1.5 !important;
+}
+
+.site-nav .page-link {
+  color: #1a1a1a !important;
+  font-family: 'EB Garamond', serif !important;
+  font-size: 1rem !important;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #e8e8e8 !important;
+  padding: 40px 0 !important;
+  font-size: 0.9rem !important;
+}
+
+/* ===== LINKS ===== */
+
+a {
+  color: #1a1a1a !important;
+  text-decoration: underline !important;
+  text-decoration-color: #1a1a1a !important;
+  text-underline-offset: 2px !important;
+}
+
+a:hover {
+  color: #000000 !important;
+  text-decoration-color: #000000 !important;
+}
+
+a:visited {
+  color: #2a2a2a !important;
+}
+
+/* Remove underline from site title and nav */
+.site-title,
+.site-nav .page-link {
+  text-decoration: none !important;
+}
+
+.site-nav .page-link:hover {
+  text-decoration: underline !important;
+}
+
+/* ===== POST STYLING ===== */
+
+.post-header {
+  margin-bottom: 2em !important;
+}
+
+.post-title {
+  margin-bottom: 0.25em !important;
+}
+
+.post-meta {
+  font-size: 0.95rem !important;
+  color: #666666 !important;
+  font-style: italic !important;
+  margin-bottom: 1.5em !important;
+}
+
+.post-content {
+  margin-bottom: 3em !important;
+}
+
+/* Paragraphs */
+.post-content p {
+  margin-bottom: 1.25em !important;
+}
+
+/* Lists */
+.post-content ul,
+.post-content ol {
+  margin-bottom: 1.25em !important;
+  margin-left: 2em !important;
+}
+
+.post-content li {
+  margin-bottom: 0.5em !important;
+}
+
+/* Blockquotes */
+.post-content blockquote {
+  border-left: 3px solid #1a1a1a !important;
+  padding-left: 1.5em !important;
+  margin: 1.5em 0 !important;
+  font-style: italic !important;
+  color: #2a2a2a !important;
+}
+
+/* Code blocks */
+.post-content pre,
+.post-content code {
+  font-family: 'Courier New', monospace !important;
+  font-size: 0.9em !important;
+}
+
+.post-content pre {
+  padding: 1em !important;
+  background-color: #f8f8f8 !important;
+  border: 1px solid #e8e8e8 !important;
+  overflow-x: auto !important;
+  margin: 1.25em 0 !important;
+}
+
+/* Images */
+.post-content img {
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 1.5em 0 !important;
+  display: block !important;
+}
+
+/* ===== POST LIST (HOME PAGE) ===== */
+
+.post-list {
+  list-style: none !important;
+  margin-left: 0 !important;
+}
+
+.post-list > li {
+  margin-bottom: 3em !important;
+  padding-bottom: 2em !important;
+  border-bottom: 1px solid #e8e8e8 !important;
+}
+
+.post-list > li:last-child {
+  border-bottom: none !important;
+}
+
+.post-list .post-link {
+  display: block !important;
+  font-size: 1.75rem !important;
+  font-weight: 600 !important;
+  margin-bottom: 0.25em !important;
+  text-decoration: none !important;
+  font-family: 'EB Garamond', serif !important;
+  letter-spacing: -0.02em !important;
+}
+
+.post-list .post-link:hover {
+  text-decoration: underline !important;
+}
+
+.post-list .post-meta {
+  font-size: 0.9rem !important;
+  color: #666666 !important;
+  font-style: italic !important;
+  margin-bottom: 0.75em !important;
+}
+
+/* ===== PAGINATION ===== */
+
+.pagination {
+  text-align: center !important;
+  margin: 3em 0 !important;
+  font-family: 'EB Garamond', serif !important;
+}
+
+.pagination a,
+.pagination span {
+  padding: 0.5em 1em !important;
+  text-decoration: none !important;
+}
+
+.pagination a:hover {
+  text-decoration: underline !important;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 17px !important;
+  }
+
+  h1, .post-title {
+    font-size: 2rem !important;
+  }
+
+  h2 {
+    font-size: 1.65rem !important;
+  }
+
+  .page-content {
+    padding: 40px 20px !important;
+  }
+
+  .wrapper {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 16px !important;
+  }
+
+  h1, .post-title {
+    font-size: 1.75rem !important;
+  }
+
+  h2 {
+    font-size: 1.5rem !important;
+  }
+
+  .page-content {
+    padding: 30px 15px !important;
+  }
+}
