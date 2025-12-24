@@ -16,8 +16,9 @@
 /* Body text - Libre Caslon Text */
 body {
   font-family: 'Libre Caslon Text', serif !important;
-  font-size: 20px !important;
-  line-height: 1.5 !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  line-height: 1.7 !important;
   color: #1a1a1a !important;
   background-color: #ffffff !important;
 }
@@ -68,13 +69,13 @@ h5, h6 {
 
 /* Narrow content width for optimal readability */
 .page-content {
-  max-width: 680px !important;
+  max-width: 620px !important;
   margin: 0 auto !important;
   padding: 60px 30px !important;
 }
 
 .wrapper {
-  max-width: 680px !important;
+  max-width: 620px !important;
   margin: 0 auto !important;
   padding-right: 30px !important;
   padding-left: 30px !important;
