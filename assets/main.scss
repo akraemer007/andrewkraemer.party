@@ -136,14 +136,26 @@ h5, h6 {
 .footer-links {
   font-size: 0.9rem !important;
   color: #666 !important;
+  display: flex !important;
+  justify-content: center !important;
+  gap: 1.5em !important;
+  flex-wrap: wrap !important;
 }
 
 .footer-links a {
   color: #666 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.4em !important;
+  text-decoration: none !important;
 }
 
 .footer-links a:hover {
   color: #1a1a1a !important;
+}
+
+.footer-links svg {
+  flex-shrink: 0 !important;
 }
 
 /* ===== LINKS ===== */
