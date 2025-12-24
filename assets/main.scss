@@ -115,8 +115,35 @@ h5, h6 {
 /* Footer */
 .site-footer {
   border-top: 1px solid #e8e8e8 !important;
-  padding: 40px 0 !important;
+  padding: 60px 0 !important;
+  text-align: center !important;
+}
+
+.footer-tagline {
+  font-style: italic !important;
+  color: #666 !important;
+  font-size: 1rem !important;
+  margin-bottom: 0.5em !important;
+}
+
+.footer-author {
+  font-family: 'Work Sans', sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  margin-bottom: 0.5em !important;
+}
+
+.footer-links {
   font-size: 0.9rem !important;
+  color: #666 !important;
+}
+
+.footer-links a {
+  color: #666 !important;
+}
+
+.footer-links a:hover {
+  color: #1a1a1a !important;
 }
 
 /* ===== LINKS ===== */

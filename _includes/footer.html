@@ -1,0 +1,12 @@
+<footer class="site-footer h-card">
+  <div class="wrapper">
+    <p class="footer-tagline">{{ site.description }}</p>
+    <p class="footer-author">{{ site.author.name }}</p>
+    <p class="footer-links">
+      <a href="mailto:{{ site.author.email }}">{{ site.author.email | split: '@' | first }}</a>
+      · <a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a>
+      · <a href="https://bsky.app/profile/{{ site.bluesky_username }}">@{{ site.bluesky_username }}</a>
+    </p>
+  </div>
+</footer>
+
