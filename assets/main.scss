@@ -224,9 +224,19 @@ a:visited {
 }
 
 .post-list > li {
-  margin-bottom: 3em !important;
-  padding-bottom: 2em !important;
-  border-bottom: 1px solid #e8e8e8 !important;
+  margin-bottom: 4em !important;
+  padding-bottom: 3em !important;
+  border-bottom: none !important;
+  position: relative !important;
+}
+
+.post-list > li:not(:last-child)::after {
+  content: "◆" !important;
+  display: block !important;
+  text-align: center !important;
+  margin-top: 3em !important;
+  color: #999 !important;
+  font-size: 0.8em !important;
 }
 
 .post-list > li:last-child {
@@ -276,7 +286,7 @@ a:visited {
 
 hr {
   border: none !important;
-  border-top: 1px solid #d8d8d8 !important;
+  border-top: 1px solid #b8b8b8 !important;
   width: 40% !important;
   margin: 3em auto !important;
 }
