@@ -9,14 +9,14 @@
    ============================================ */
 
 /* Google Fonts - add to head */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
 
 /* ===== TYPOGRAPHY ===== */
 
-/* Body text - Crimson Text (Caslon alternative) */
+/* Body text - Libre Caslon Text */
 body {
-  font-family: 'Crimson Text', serif !important;
-  font-size: 18px !important;
+  font-family: 'Libre Caslon Text', serif !important;
+  font-size: 20px !important;
   line-height: 1.5 !important;
   color: #1a1a1a !important;
   background-color: #ffffff !important;
@@ -269,6 +269,15 @@ a:visited {
 
 .pagination a:hover {
   text-decoration: underline !important;
+}
+
+/* ===== HORIZONTAL RULES ===== */
+
+hr {
+  border: none !important;
+  border-top: 1px solid #d8d8d8 !important;
+  width: 40% !important;
+  margin: 3em auto !important;
 }
 
 /* ===== RESPONSIVE DESIGN ===== */
