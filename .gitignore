@@ -3,3 +3,6 @@ _site/
 .bundle/
 vendor/
 .gem/
+*~undo-tree~
+*.swp
+*.swo
