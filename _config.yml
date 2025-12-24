@@ -23,15 +23,13 @@ permalink: pretty
 header_pages:
   - about.md
 
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"
+# Show full post content on home page
+show_excerpts: false
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
 
 # Exclude from processing
 exclude:
