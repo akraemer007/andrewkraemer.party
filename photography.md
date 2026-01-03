@@ -11,6 +11,8 @@ A collection of photographs from my travels and daily life.
      1. Export your photo from Lightroom to /assets/photos/
      2. Add a new line below in this format:
         [![Alt text](/assets/photos/your-photo.jpeg)](/assets/photos/your-photo.jpeg){: .glightbox}
+
+        [![Alt text](/assets/photos/your-photo.jpeg)](/assets/photos/your-photo.jpeg){: .glightbox data-gallery="gallery1"}
      3. That's it! The photo will appear in the grid.
      ==================================== -->
 
@@ -24,17 +26,17 @@ A collection of photographs from my travels and daily life.
 
 [![Two Waterfalls](/assets/photos/two_waterfalls.jpeg)](/assets/photos/two_waterfalls.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Texas sunset with bumble bee](/assets/photos/bumble_bee.jpeg)](/assets/photos/bumble_bee.jpeg){: .glightbox}
+[![Texas sunset with bumble bee](/assets/photos/bumble_bee.jpeg)](/assets/photos/bumble_bee.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Texas Monthly magazine cover](/assets/photos/texas_monthly.jpeg)](/assets/photos/texas_monthly.jpeg){: .glightbox}
+[![Texas Monthly magazine cover](/assets/photos/texas_monthly.jpeg)](/assets/photos/texas_monthly.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Daruma doll](/assets/photos/daruma.jpeg)](/assets/photos/daruma.jpeg){: .glightbox}
+[![Daruma doll](/assets/photos/daruma.jpeg)](/assets/photos/daruma.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Clouds](/assets/photos/clouds.jpeg)](/assets/photos/clouds.jpeg){: .glightbox}
+[![Clouds](/assets/photos/clouds.jpeg)](/assets/photos/clouds.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Japanese baseball](/assets/photos/jp_baseball.jpeg)](/assets/photos/jp_baseball.jpeg){: .glightbox}
+[![Japanese baseball](/assets/photos/jp_baseball.jpeg)](/assets/photos/jp_baseball.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Dinnertime](/assets/photos/dinnertime.jpeg)](/assets/photos/dinnertime.jpeg){: .glightbox}
+[![Dinnertime](/assets/photos/dinnertime.jpeg)](/assets/photos/dinnertime.jpeg){: .glightbox data-gallery="gallery1"}
 </div>
 
 <!--
