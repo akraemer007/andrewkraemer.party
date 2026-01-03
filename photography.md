@@ -39,6 +39,17 @@ A collection of photographs from my travels and daily life.
 [![Dinnertime](/assets/photos/dinnertime.jpeg)](/assets/photos/dinnertime.jpeg){: .glightbox data-gallery="gallery1"}
 </div>
 
+[![Shooting star](/assets/photos/shooting_star.jpg)](/assets/photos/shooting_star.jpg){: .glightbox data-gallery="gallery1"}
+
+[![Niece apartments](/assets/photos/niece_apts.jpg)](/assets/photos/niece_apts.jpg){: .glightbox data-gallery="gallery1"}
+
+[![Fire dance](/assets/photos/fire_dance.jpg)](/assets/photos/fire_dance.jpg){: .glightbox data-gallery="gallery1"}
+
+[![New beginnings](/assets/photos/new_beginnings.jpg)](/assets/photos/new_beginnings.jpg){: .glightbox data-gallery="gallery1"}
+
+[![Cactus](/assets/photos/cactus.jpg)](/assets/photos/cactus.jpg){: .glightbox data-gallery="gallery1"}
+
+[![Stop sign](/assets/photos/stop.jpg)](/assets/photos/stop.jpg){: .glightbox data-gallery="gallery1"}
 <!--
      GLIGHTBOX SETUP:
      Add these two lines to your <head> section in _includes/head.html or _layouts/default.html:
