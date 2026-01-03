@@ -332,13 +332,6 @@ hr {
 
 /* ===== PHOTOGRAPHY PAGE ===== */
 
-/* Override max-width for photography page to allow wider grid */
-.page-content {
-  &:has(.photo-grid) {
-    max-width: 1200px !important;
-  }
-}
-
 /* Photo grid - responsive 3/2/1 column layout */
 .photo-grid {
   display: grid !important;
