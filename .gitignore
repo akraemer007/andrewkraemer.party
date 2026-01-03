@@ -1,6 +1,7 @@
 .DS_Store
 _site/
 .bundle/
+.vscode/
 vendor/
 .gem/
 *~undo-tree~

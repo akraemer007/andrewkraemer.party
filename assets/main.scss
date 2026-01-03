@@ -330,6 +330,63 @@ hr {
   margin: 3em auto !important;
 }
 
+/* ===== PHOTOGRAPHY PAGE ===== */
+
+/* Override max-width for photography page to allow wider grid */
+.page-content {
+  &:has(.photo-grid) {
+    max-width: 1200px !important;
+  }
+}
+
+/* Photo grid - responsive 3/2/1 column layout */
+.photo-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 20px !important;
+  margin: 3em 0 !important;
+  padding: 0 !important;
+}
+
+/* Photo grid items */
+.photo-grid p {
+  margin: 0 !important;
+  line-height: 0 !important; /* Remove extra space below images */
+}
+
+.photo-grid a {
+  display: block !important;
+  overflow: hidden !important;
+  border-radius: 2px !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  text-decoration: none !important;
+}
+
+.photo-grid a:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.photo-grid img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  aspect-ratio: 1 / 1 !important; /* Square grid items */
+  margin: 0 !important;
+  display: block !important;
+  transition: opacity 0.2s ease !important;
+}
+
+.photo-grid a:hover img {
+  opacity: 0.95 !important;
+}
+
+/* GLightbox overrides to match site aesthetic */
+.gslide-description {
+  font-family: 'Crimson Pro', serif !important;
+  font-size: 1rem !important;
+}
+
 /* ===== RESPONSIVE DESIGN ===== */
 
 @media screen and (max-width: 800px) {
@@ -353,6 +410,12 @@ hr {
     padding-right: 20px !important;
     padding-left: 20px !important;
   }
+
+  /* Photo grid - 2 columns on tablet */
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 15px !important;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -370,5 +433,11 @@ hr {
 
   .page-content {
     padding: 30px 15px !important;
+  }
+
+  /* Photo grid - 1 column on mobile */
+  .photo-grid {
+    grid-template-columns: 1fr !important;
+    gap: 15px !important;
   }
 }

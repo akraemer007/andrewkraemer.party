@@ -22,6 +22,7 @@ permalink: pretty
 # Header pages (controls navigation menu)
 header_pages:
   - about.md
+  - photography.md
 
 # Pagination
 paginate: 5
