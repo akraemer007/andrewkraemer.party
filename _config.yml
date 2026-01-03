@@ -40,3 +40,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE.md
+  - PHOTOGRAPHY_SETUP.md

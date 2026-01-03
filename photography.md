@@ -16,13 +16,13 @@ A collection of photographs from my travels and daily life.
 
 <div class="photo-grid" markdown="1">
 
-[![Crashing Wave](/assets/photos/crashing_wave.jpg)](/assets/photos/crashing_wave.jpg){: .glightbox data-gallery="gallery1"}
+[![Crashing Wave](/assets/photos/crashing_wave.jpeg)](/assets/photos/crashing_wave.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Lonely Tree](/assets/photos/lonely_tree.jpg)](/assets/photos/lonely_tree.jpg){: .glightbox data-gallery="gallery1"}
+[![Lonely Tree](/assets/photos/lonely_tree.jpeg)](/assets/photos/lonely_tree.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Mountain Peak](/assets/photos/nz_mountain_peak.jpg)](/assets/photos/nz_mountain_peak.jpg){: .glightbox data-gallery="gallery1"}
+[![Mountain Peak](/assets/photos/nz_mountain_peak.jpeg)](/assets/photos/nz_mountain_peak.jpeg){: .glightbox data-gallery="gallery1"}
 
-[![Two Waterfalls](/assets/photos/two_waterfalls.jpg)](/assets/photos/two_waterfalls.jpg){: .glightbox data-gallery="gallery1"}
+[![Two Waterfalls](/assets/photos/two_waterfalls.jpeg)](/assets/photos/two_waterfalls.jpeg){: .glightbox data-gallery="gallery1"}
 
 </div>
 
