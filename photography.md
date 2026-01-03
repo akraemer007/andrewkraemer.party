@@ -37,7 +37,6 @@ A collection of photographs from my travels and daily life.
 [![Japanese baseball](/assets/photos/jp_baseball.jpeg)](/assets/photos/jp_baseball.jpeg){: .glightbox data-gallery="gallery1"}
 
 [![Dinnertime](/assets/photos/dinnertime.jpeg)](/assets/photos/dinnertime.jpeg){: .glightbox data-gallery="gallery1"}
-</div>
 
 [![Shooting star](/assets/photos/shooting_star.jpg)](/assets/photos/shooting_star.jpg){: .glightbox data-gallery="gallery1"}
 
@@ -50,6 +49,8 @@ A collection of photographs from my travels and daily life.
 [![Cactus](/assets/photos/cactus.jpg)](/assets/photos/cactus.jpg){: .glightbox data-gallery="gallery1"}
 
 [![Stop sign](/assets/photos/stop.jpg)](/assets/photos/stop.jpg){: .glightbox data-gallery="gallery1"}
+
+</div>
 <!--
      GLIGHTBOX SETUP:
      Add these two lines to your <head> section in _includes/head.html or _layouts/default.html:
