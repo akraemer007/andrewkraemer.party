@@ -4,7 +4,7 @@ title: Photography
 permalink: /photography/
 ---
 
-A collection of photographs from my travels and daily life.
+Here are some of my favorite shots from over the past few years:
 
 <!-- ====================================
      HOW TO ADD NEW PHOTOS:
