@@ -47,9 +47,9 @@ I think this movie is bad. I didn't grow up with it. I'm sure it's foundational 
 This is a favorite of my mother-in-law. It's really cute and has an absolutely dynamite cast.
 
 #### Carol
-Okay, this one is debatable as a Christmas movie - it's set during the holiday season, but that's not really the point. Still, we watched it during Christmas week, so it counts.
+Okay, this one is debatable as a Christmas movie. It takes place during Christmas, so I'm counting it in my book. It's also called Carol!
 
-I have been working my way through the [NYT Top 100 Movies of the 21st Century](https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html). [I've got nine movies left](https://letterboxd.com/kidman007/list/remaining-nyt-top-100/), and most of them are either depressing, foreign films I've not heard of, or both. Carol was on the list till I saw that it was playing at the Alamo Drafthouse near my house.
+I have been working my way through the [NYT Top 100 Movies of the 21st Century](https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html). I've been working through the 24 I hadn't seen, [and I've got nine movies left](https://letterboxd.com/kidman007/list/remaining-nyt-top-100/). Most of them are either depressing, foreign films, or depressing foreign films. Carol was recently on the list until I was able to catch it playing at the Alamo Drafthouse near my house.
 
 The year is 1952 in Manhattan. Cate Blanchett is a wealthy socialite who is divorcing her husband because of her continued romantic relationships with women. Rooney Mara is a young department store clerk. After a chance encounter, they begin meeting more regularly and things get complicated.
 
