@@ -33,7 +33,7 @@ I've filled a notebook half full of notes from my runs. I'm through 45 runs of t
 
 ---
 
-There are too many movies out and with the holidays and the flu, we haven't had the opportunity to go and see any of them. This week we have tickets for Hamnet and Marty Supreme. Hamnet had been out for 3 weeks before we left for Cantor and rather than rushing to go see it, we gambled and waited to see it until after we got back. It is now only playing at the main Alamo Drafthouse, which is across town. Then on Wednesday we'll be going to Marty Supreme together with some friends, which has quickly become the movie I'm most excited to see going into the Oscar season.
+There are too many movies out and with the holidays and the flu, we haven't had the opportunity to go and see any of them. This week we have tickets for Hamnet and Marty Supreme. Hamnet had been out for 3 weeks before we left for Canton and rather than rushing to go see it, we gambled and waited to see it until after we got back. It is now only playing at the main Alamo Drafthouse, which is across town. Then on Wednesday we'll be going to Marty Supreme together with some friends, which has quickly become the movie I'm most excited to see going into the Oscar season.
 
 That also leaves both the new Park Chan Wook movie and Avatar 3 for me to see. It'll be busy but hopefully I'll be able to catch everything before it leaves.
 
